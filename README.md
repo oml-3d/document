@@ -20,7 +20,7 @@ With OML, authors describe the structure of AR content using _**markup**_.
 
 ## Background
 
-仕様策定の背景
+
 
 ## Audience
 
